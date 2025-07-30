@@ -2,7 +2,7 @@
 
 ## Changes Made
 
-###[App.tsx]
+### [App.tsx]
 
 1. Types in line 8
    - Issue: Types and Tags lack types
